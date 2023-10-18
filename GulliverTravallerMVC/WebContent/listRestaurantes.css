@@ -9,10 +9,10 @@
 :root {
   --color-light: #ffffff;
   --color-dark: #000000;
-  --color-primary900: #ff0055;
+  --color-primary900: #f69f24;
   --color-primary100: #ffdede;
-  --color-secondary900: #fc945a;
-  --color-secondary100: #ffc4a4;
+  --color-secondary900: #5a9dfc;
+  --color-secondary100: #b53521;
 
   --h1-font-size: 3.125rem;
   --h2-font-size: 1.875rem;

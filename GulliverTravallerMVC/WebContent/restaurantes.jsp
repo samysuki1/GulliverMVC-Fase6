@@ -38,7 +38,7 @@
     <!--Header-->
     <header>
       <div class="container-fluid container-header">
-        <h1 class="header-title">GuTraveller</h1>
+        <h1 class="header-title">Gulliver Traveller</h1>
         <div class="inputSearch">
           <i
             class="fa-solid fa-magnifying-glass iconSearch"
@@ -210,7 +210,7 @@
 
     <footer>
       <div class="footer-items-social">
-        <h4>GuTraveller</h4>
+        <h4>Gulliver Traveller</h4>
         <span>
           <i class="fa-brands fa-facebook socialIcons"></i>
           <i class="fa-brands fa-instagram socialIcons"></i>
@@ -218,7 +218,7 @@
       </div>
 
       <div class="footer-items-links">
-        <h4>Sobre o GuTraveller</h4>
+        <h4>Sobre o Gulliver Traveller</h4>
         <nav>
           <ul class="nav-footer">
             <li><a class="a-footer" href="#page">Quem Somos</a></li>
@@ -230,7 +230,7 @@
       </div>
 
       <div class="footer-items-blog">
-        <h4>Conheça o Blog do Gulliver</h4>
+        <h4>Blog do Gulliver</h4>
         <div class="footer-images-blog">
           <div>
             <img
@@ -238,7 +238,7 @@
               alt="Bares em São Paulo"
               class="img-footer"
             />
-            <p>Acampar é a sua praia?</p>
+            <p>Curte acampar?</p>
           </div>
           <div>
             <img
