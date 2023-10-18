@@ -56,7 +56,7 @@
         </div>
 
         <div class="menu-mobile dropdown">
-          <span class="lupa material-symbols-outlined">search</span>
+          <span class="lupa material-symbols-outlined">Search</span>
           <button
             class="btn btn-secondary"
             data-bs-toggle="dropdown"
